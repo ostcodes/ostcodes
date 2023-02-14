@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Dmitriy
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">А junior frontend developer from Kazakhstan and a student of the skillbox university</h3>
+<div>
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          </div>
